@@ -19,7 +19,7 @@ public:
 	Encriptador(const Encriptador& orig);
 	virtual ~Encriptador();
 private:
-
+hola
 };
 
 #endif	/* ENCRIPTADOR_H */
