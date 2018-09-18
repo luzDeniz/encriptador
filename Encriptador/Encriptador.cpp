@@ -17,6 +17,7 @@ Encriptador::Encriptador() {
 }
 
 Encriptador::Encriptador(const Encriptador& orig) {
+hola colo
 }
 
 Encriptador::~Encriptador() {
