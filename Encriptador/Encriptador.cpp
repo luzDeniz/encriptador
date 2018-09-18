@@ -22,3 +22,4 @@ Encriptador::Encriptador(const Encriptador& orig) {
 Encriptador::~Encriptador() {
 }
 
+hola mundo
